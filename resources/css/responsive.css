@@ -1,0 +1,63 @@
+@media only screen and (max-width: 575px) {
+	#home-section .description .tooltip-bottom span{
+		width: 20%;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	#home-section .description {
+	margin-top: -10px;
+}
+	#home-section #home-img img {
+		visibility: hidden;
+	}
+	#about-section img {
+		display: none;
+	}
+	
+	#contact-section .my-social-link {
+		margin-left: 10px;
+		border-radius: 5px;
+	}
+	#contact-section .my-social-link .fab{
+		font-size: 20px;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	#home-section .tooltip-bottom {
+		margin-left: 60px;
+	}
+}
+
+
+@media only screen and (max-width: 320px) {
+	#home-section .tooltip-bottom {
+		margin-left: 10px;
+	}
+}
+
+
+@media only screen and (max-width: 355px) {
+	#home-section .cv-btn{
+		font-size: 14px;
+		padding: 15px 9px;
+	}
+	#home-section .work-btn {
+		font-size: 14px;
+		padding: 15px 9px;
+	}
+}
+
+@media only screen and (max-width: 425px) {
+	#our-achievement h4{
+		font-size: 20px;
+	}
+}
+
+
+@media only screen and (max-width: 320px) {
+	#our-achievement h4{
+		font-size: 16px;
+	}
+}
